@@ -45,12 +45,7 @@ export default function App() {
 			: [
 					{
 						name: "Sign Out",
-						onClick: () => {
-							signOut({
-								callbackUrl: "/",
-							});
-						},
-						href: "temp signout",
+						href: "/api/auth/signout",
 					},
 			  ],
 	};
@@ -85,7 +80,6 @@ export default function App() {
 						<NavbarItem key={item.href}>
 							<Button
 								color="default"
-								onClick={item.onClick ?? undefined}
 								variant="flat"
 								as={Link}
 								href={item.href}
