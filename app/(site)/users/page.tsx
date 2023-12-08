@@ -8,9 +8,11 @@ import { ColumnType } from "antd/lib/table/interface";
 import React, { useEffect, useState } from "react";
 export default function Users() {
 	const [users, setUsers] = useState<IUser[]>([]);
+	const [isLoading, setIsLoading] = useState<boolean>(true);
 	const loadUsers = async () => {
 		const res = await fetchData("users", "GET");
 		setUsers(res.data as IUser[]);
+		setIsLoading(false);
 	};
 	useEffect(() => {
 		loadUsers();
@@ -36,6 +38,7 @@ export default function Users() {
 				)}
 				columns={columns}
 				dataSource={users}
+				loading={isLoading}
 			/>
 		</div>
 	);

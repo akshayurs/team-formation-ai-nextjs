@@ -28,10 +28,6 @@ const config: Config = {
 					layout: {}, // light theme layout tokens
 					colors: {}, // light theme colors
 				},
-				darka: {
-					layout: {}, // dark theme layout tokens
-					colors: {}, // dark theme colors
-				},
 				dark: {
 					extend: "dark", // <- inherit default values from dark theme
 					colors: {

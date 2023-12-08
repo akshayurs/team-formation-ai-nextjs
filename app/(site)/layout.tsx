@@ -2,7 +2,7 @@
 
 import * as React from "react";
 import NavBar from "@/components/NavBar";
-import { SessionProvider } from "next-auth/react";
+import { SessionProvider, useSession } from "next-auth/react";
 import { ConfigProvider, theme } from "antd";
 import { useTheme } from "next-themes";
 import { Background } from "@/components/Background";

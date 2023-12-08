@@ -2,10 +2,7 @@
 
 export function Background({ NextTheme }: { NextTheme: string | undefined }) {
 	return (
-		<div
-			style={styles.backgroundMain}
-			className={NextTheme === "dark" ? "!hidden" : ""}
-		>
+		<div style={styles.backgroundMain}>
 			<div style={styles.backgroundMainBefore} />
 			<div style={styles.backgroundMainAfter} />
 			<div style={styles.backgroundContent} />
@@ -25,8 +22,6 @@ const styles: { [key: string]: React.CSSProperties } = {
 		pointerEvents: "none",
 	},
 	backgroundMainBefore: {
-		background:
-			"radial-gradient(circle, rgba(2, 0, 36, 0) 0, #fafafa 100%)",
 		position: "absolute",
 		content: '""',
 		zIndex: 2,
