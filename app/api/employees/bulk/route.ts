@@ -37,7 +37,7 @@ export async function POST(request: NextRequest) {
 					},
 				});
 				return newEmployee;
-			}),
+			})
 		);
 
 		await prisma.$disconnect();
@@ -71,6 +71,7 @@ export async function DELETE(request: NextRequest) {
 	} else {
 		employees = await prisma.employee.deleteMany();
 	}
+	prisma.$disconnect();
 	return NextResponse.json({
 		success: true,
 		data: employees,

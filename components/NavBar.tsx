@@ -38,7 +38,7 @@ export default function App() {
 						{ name: "Teams", href: "/teams" },
 				  ]
 				: []),
-			{ name: "About", href: "/about" },
+			{ name: "Groups", href: "/groups" },
 		],
 		right: !session
 			? [{ name: "Login", href: "/api/auth/signin", onClick: undefined }]

@@ -9,7 +9,7 @@ interface response {
 async function fetchData(
 	url: string,
 	method: string,
-	body?: Record<string, any>,
+	body?: Record<string, any>
 ): Promise<response> {
 	const requestOptions: RequestInit = {
 		method,
@@ -20,7 +20,12 @@ async function fetchData(
 	};
 
 	try {
-		const response = await fetch(`/api/${url}`, requestOptions);
+		let response;
+		if (url.startsWith("http://")) {
+			response = await fetch(url, requestOptions);
+		} else {
+			response = await fetch(`/api/${url}`, requestOptions);
+		}
 
 		if (!response.ok) {
 			throw new Error(`Request failed with status ${response.status}`);

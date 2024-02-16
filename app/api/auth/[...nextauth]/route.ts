@@ -6,28 +6,28 @@ import { PrismaClient } from "@prisma/client";
 
 const prisma = new PrismaClient();
 
+declare global {
+	namespace NodeJS {
+		interface ProcessEnv {
+			GOOGLE_CLIENT_ID: string;
+			GOOGLE_CLIENT_SECRET: string;
+			GITHUB_CLIENT_ID: string;
+			GITHUB_CLIENT_SECRET: string;
+			PYTHON_SERVER_URL: string;
+		}
+	}
+}
+
 const handler = NextAuth({
 	secret: process.env.NEXTAUTH_SECRET ?? "secret",
 	providers: [
 		Google({
-			clientId:
-				process.env.GOOGLE_CLIENT_ID ||
-				console.log("GOOGLE_CLIENT_ID Empty") ||
-				"x",
-			clientSecret:
-				process.env.GOOGLE_CLIENT_SECRET ||
-				console.log("GOOGLE_CLIENT_SECRET Empty") ||
-				"x",
+			clientId: process.env.GOOGLE_CLIENT_ID,
+			clientSecret: process.env.GOOGLE_CLIENT_SECRET,
 		}),
 		Github({
-			clientId:
-				process.env.GITHUB_CLIENT_ID ||
-				console.log("GITHUB_CLIENT_ID Empty") ||
-				"x",
-			clientSecret:
-				process.env.GITHUB_CLIENT_SECRET ||
-				console.log("GITHUB_CLIENT_SECRET Empty") ||
-				"x",
+			clientId: process.env.GITHUB_CLIENT_ID,
+			clientSecret: process.env.GITHUB_CLIENT_SECRET,
 		}),
 	],
 	callbacks: {
