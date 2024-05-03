@@ -10,27 +10,39 @@ import {
   message,
 } from "antd";
 import fetchData from "@/lib/fetchData";
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { useSession } from "next-auth/react";
+import { useParams } from "next/navigation";
+interface FieldType {
+  name: string;
+  age: number;
+  phone: string;
+  email: string;
+  designation: string;
+  employeeType: "FULLTIME" | "PARTTIME" | "CONTRACT" | "INTERN";
+  currentProjects: Number;
+  gender: "MALE" | "FEMALE";
+  location: string;
+  experience: { role: string; years: number }[];
+  skills: { name: string; level: number }[];
+}
 export default function Employees() {
   const { data: session } = useSession();
-  interface FieldType {
-    name: string;
-    age: number;
-    phone: string;
-    email: string;
-    designation: string;
-    gender: "MALE" | "FEMALE";
-    employeeType: "FULLTIME" | "PARTTIME" | "CONTRACT" | "INTERN";
-    currentProjects: Number;
-    location: string;
-    experience: { role: string; years: number }[];
-    skills: { name: string; level: number }[];
-  }
+  const [form] = Form.useForm();
+  const { id } = useParams();
+  useEffect(() => {
+    loadData();
+  }, []);
+  const loadData = async () => {
+    const res = await fetchData("employees?id=" + id, "GET");
+    if (res.success) {
+      form.setFieldsValue(res.data);
+    }
+  };
   const onFinish = async (values: FieldType) => {
-    const res = await fetchData("employees", "POST", {
+    const res = await fetchData("employees", "PUT", {
       ...values,
-      createdByEmail: session?.user?.email,
+      id,
     });
     if (res.success) {
       message.success(res.message);
@@ -38,10 +50,8 @@ export default function Employees() {
   };
   return (
     <div className="mx-auto w-2/3">
-      <Typography.Title className="text-center">
-        Add New Employee
-      </Typography.Title>
-      <Form onFinish={onFinish} layout="vertical">
+      <Typography.Title className="text-center">Edit Employee</Typography.Title>
+      <Form onFinish={onFinish} form={form} layout="vertical">
         <Form.Item
           name="name"
           label="Name"
@@ -262,7 +272,7 @@ export default function Employees() {
         </Form.List>
         <Form.Item>
           <Button block htmlType="submit">
-            Add
+            Update
           </Button>
         </Form.Item>
       </Form>

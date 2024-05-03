@@ -1,0 +1,2234 @@
+[
+  {
+    "name": "Aarav Das",
+    "email": "aaravdas376@gmail.com",
+    "age": 27,
+    "phone": "9071277903",
+    "designation": "Machine Learning Engineer",
+    "gender": "MALE",
+    "location": "Ahmedabad",
+    "experience": [{ "role": "QA engineer", "years": 2 }],
+    "skills": [
+      { "name": "C#", "level": 5 },
+      { "name": "Assembly language", "level": 4 },
+      { "name": "Data Visualization", "level": 4 },
+      { "name": "PHP", "level": 4 },
+      { "name": "Machine Learning", "level": 5 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "CONTRACT",
+    "currentProjects": 2
+  },
+  {
+    "name": "Riya Kapoor",
+    "email": "riyakapoor357@gmail.com",
+    "age": 28,
+    "phone": "9077272240",
+    "designation": "Data Analyst",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Data Analyst", "years": 3 },
+      { "role": "Data Scientist", "years": 2 }
+    ],
+    "skills": [
+      { "name": "C#", "level": 3 },
+      { "name": "JavaScript", "level": 3 },
+      { "name": "JAVA", "level": 5 },
+      { "name": "C", "level": 2 },
+      { "name": "Python", "level": 5 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Aarav Patel",
+    "email": "aaravpatel162@gmail.com",
+    "age": 29,
+    "phone": "8933190791",
+    "designation": "Machine Learning Engineer",
+    "gender": "MALE",
+    "location": "Kochi",
+    "experience": [{ "role": "Data Analyst", "years": 4 }],
+    "skills": [
+      { "name": "SQL", "level": 2 },
+      { "name": "HTML/CSS", "level": 5 },
+      { "name": "Data Visualization", "level": 5 },
+      { "name": "Shell scripting (Bash)", "level": 4 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Rudra Khanna",
+    "email": "rudrakhanna143@gmail.com",
+    "age": 30,
+    "phone": "8697337422",
+    "designation": "QA engineer",
+    "gender": "MALE",
+    "location": "New Delhi",
+    "experience": [
+      { "role": "Data Analyst", "years": 3 },
+      { "role": "Data Scientist", "years": 2 }
+    ],
+    "skills": [
+      { "name": "C#", "level": 5 },
+      { "name": "TypeScript", "level": 3 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Anvi Singh",
+    "email": "anvisingh333@gmail.com",
+    "age": 24,
+    "phone": "8445186497",
+    "designation": "Machine Learning Engineer",
+    "gender": "FEMALE",
+    "location": "Chandigarh",
+    "experience": [
+      { "role": "QA engineer", "years": 2 },
+      { "role": "Data Scientist", "years": 3 }
+    ],
+    "skills": [
+      { "name": "JavaScript", "level": 2 },
+      { "name": "Shell scripting (Bash)", "level": 5 },
+      { "name": "SQL", "level": 3 },
+      { "name": "Statistics", "level": 4 },
+      { "name": "Assembly language", "level": 2 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Avni Mehta",
+    "email": "avnimehta137@gmail.com",
+    "age": 45,
+    "phone": "8487683646",
+    "designation": "Software Developer",
+    "gender": "FEMALE",
+    "location": "Ahmedabad",
+    "experience": [
+      { "role": "QA engineer", "years": 2 },
+      { "role": "Machine Learning Engineer", "years": 4 }
+    ],
+    "skills": [
+      { "name": "SQL", "level": 2 },
+      { "name": "Java", "level": 2 },
+      { "name": "PHP", "level": 4 },
+      { "name": "Statistics", "level": 3 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Vihaan Kumar",
+    "email": "vihaankumar85@gmail.com",
+    "age": 29,
+    "phone": "8846610412",
+    "designation": "Machine Learning Engineer",
+    "gender": "MALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "Machine Learning Engineer", "years": 4 }],
+    "skills": [
+      { "name": "Kotlin", "level": 5 },
+      { "name": "Assembly language", "level": 4 },
+      { "name": "Statistics", "level": 5 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Ananya Shah",
+    "email": "ananyashah308@gmail.com",
+    "age": 44,
+    "phone": "7898154233",
+    "designation": "Data Scientist",
+    "gender": "FEMALE",
+    "location": "Ahmedabad",
+    "experience": [{ "role": "Software Developer", "years": 2 }],
+    "skills": [
+      { "name": "HTML/CSS", "level": 3 },
+      { "name": "c++", "level": 2 },
+      { "name": "SQL", "level": 4 },
+      { "name": "Python", "level": 4 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Devika Singh",
+    "email": "devikasingh240@gmail.com",
+    "age": 28,
+    "phone": "8906670064",
+    "designation": "Data Analyst",
+    "gender": "FEMALE",
+    "location": "Chandigarh",
+    "experience": [
+      { "role": "Software Developer", "years": 4 },
+      { "role": "Data Scientist", "years": 2 }
+    ],
+    "skills": [
+      { "name": "Python", "level": 3 },
+      { "name": "JAVA", "level": 4 },
+      { "name": "R", "level": 5 },
+      { "name": "PHP", "level": 2 },
+      { "name": "C", "level": 2 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Arjun Singh",
+    "email": "arjunsingh148@gmail.com",
+    "age": 42,
+    "phone": "9463998832",
+    "designation": "Machine Learning Engineer",
+    "gender": "MALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Software Developer", "years": 2 },
+      { "role": "Data Analyst", "years": 1 }
+    ],
+    "skills": [
+      { "name": "Kotlin", "level": 3 },
+      { "name": "Assembly language", "level": 5 },
+      { "name": "Statistics", "level": 2 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Anika Sharma",
+    "email": "anikasharma344@gmail.com",
+    "age": 20,
+    "phone": "7968642601",
+    "designation": "QA engineer",
+    "gender": "FEMALE",
+    "location": "Jaipur",
+    "experience": [
+      { "role": "Software Developer", "years": 4 },
+      { "role": "Machine Learning Engineer", "years": 1 }
+    ],
+    "skills": [
+      { "name": "C#", "level": 5 },
+      { "name": "TypeScript", "level": 2 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "CONTRACT",
+    "currentProjects": 3
+  },
+  {
+    "name": "Vihaan Patel",
+    "email": "vihaanpatel115@gmail.com",
+    "age": 28,
+    "phone": "9266858118",
+    "designation": "Machine Learning Engineer",
+    "gender": "MALE",
+    "location": "Mumbai",
+    "experience": [
+      { "role": "Data Analyst", "years": 4 },
+      { "role": "Data Scientist", "years": 3 }
+    ],
+    "skills": [
+      { "name": "C#", "level": 3 },
+      { "name": "JavaScript", "level": 4 },
+      { "name": "JAVA", "level": 5 },
+      { "name": "C", "level": 2 },
+      { "name": "Python", "level": 2 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Advait Joshi",
+    "email": "advaitjoshi4@gmail.com",
+    "age": 43,
+    "phone": "9294410285",
+    "designation": "QA engineer",
+    "gender": "MALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Software Developer", "years": 1 },
+      { "role": "Data Analyst", "years": 2 }
+    ],
+    "skills": [
+      { "name": "SQL", "level": 2 },
+      { "name": "JavaScript", "level": 5 },
+      { "name": "Assembly language", "level": 2 },
+      { "name": "Go", "level": 5 },
+      { "name": "C#", "level": 2 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Riya Kapoor",
+    "email": "riyakapoor84@gmail.com",
+    "age": 37,
+    "phone": "9259882822",
+    "designation": "Software Developer",
+    "gender": "FEMALE",
+    "location": "Chandigarh",
+    "experience": [
+      { "role": "Software Developer", "years": 2 },
+      { "role": "Machine Learning Engineer", "years": 2 }
+    ],
+    "skills": [
+      { "name": "Java", "level": 5 },
+      { "name": "Statistics", "level": 2 },
+      { "name": "C#", "level": 2 },
+      { "name": "SQL", "level": 5 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Anaya Jain",
+    "email": "anayajain122@gmail.com",
+    "age": 20,
+    "phone": "8807728253",
+    "designation": "QA engineer",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Machine Learning Engineer", "years": 3 },
+      { "role": "QA engineer", "years": 1 }
+    ],
+    "skills": [
+      { "name": "Data Visualization", "level": 2 },
+      { "name": "PHP", "level": 3 },
+      { "name": "C", "level": 5 },
+      { "name": "Python", "level": 2 },
+      { "name": "HTML/CSS", "level": 5 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Armaan Singh",
+    "email": "armaansingh375@gmail.com",
+    "age": 24,
+    "phone": "9238622431",
+    "designation": "Software Developer",
+    "gender": "MALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "Software Developer", "years": 2 }],
+    "skills": [
+      { "name": "JavaScript", "level": 3 },
+      { "name": "Go", "level": 3 },
+      { "name": "JAVA", "level": 4 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Kavya Desai",
+    "email": "kavyadesai219@gmail.com",
+    "age": 21,
+    "phone": "8997183472",
+    "designation": "Software Developer",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Data Analyst", "years": 4 },
+      { "role": "QA engineer", "years": 3 }
+    ],
+    "skills": [
+      { "name": "Go", "level": 5 },
+      { "name": "TypeScript", "level": 2 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Anika Singh",
+    "email": "anikasingh250@gmail.com",
+    "age": 37,
+    "phone": "8978051672",
+    "designation": "Data Analyst",
+    "gender": "FEMALE",
+    "location": "Mumbai",
+    "experience": [{ "role": "Machine Learning Engineer", "years": 2 }],
+    "skills": [
+      { "name": "JAVA", "level": 2 },
+      { "name": "Go", "level": 4 },
+      { "name": "R", "level": 3 },
+      { "name": "C#", "level": 2 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Vivaan Kumar",
+    "email": "vivaankumar213@gmail.com",
+    "age": 27,
+    "phone": "9586297063",
+    "designation": "Data Scientist",
+    "gender": "MALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Data Analyst", "years": 2 },
+      { "role": "Data Scientist", "years": 1 }
+    ],
+    "skills": [
+      { "name": "Python", "level": 2 },
+      { "name": "SQL", "level": 4 },
+      { "name": "R", "level": 2 },
+      { "name": "JAVA", "level": 4 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Aarav Gupta",
+    "email": "aaravgupta288@gmail.com",
+    "age": 20,
+    "phone": "9592342588",
+    "designation": "Data Scientist",
+    "gender": "MALE",
+    "location": "Chandigarh",
+    "experience": [{ "role": "Software Developer", "years": 2 }],
+    "skills": [
+      { "name": "Kotlin", "level": 2 },
+      { "name": "C#", "level": 3 },
+      { "name": "Shell scripting (Bash)", "level": 3 },
+      { "name": "Java", "level": 5 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Anika Sharma",
+    "email": "anikasharma311@gmail.com",
+    "age": 40,
+    "phone": "8104453781",
+    "designation": "QA engineer",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "QA engineer", "years": 2 }],
+    "skills": [
+      { "name": "C#", "level": 5 },
+      { "name": "JavaScript", "level": 4 },
+      { "name": "JAVA", "level": 2 },
+      { "name": "C", "level": 4 },
+      { "name": "Python", "level": 5 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Diya Rao",
+    "email": "diyarao280@gmail.com",
+    "age": 24,
+    "phone": "9283470078",
+    "designation": "QA engineer",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "Data Scientist", "years": 1 }],
+    "skills": [
+      { "name": "C#", "level": 2 },
+      { "name": "Shell scripting (Bash)", "level": 4 },
+      { "name": "SQL", "level": 4 },
+      { "name": "Assembly language", "level": 3 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "CONTRACT",
+    "currentProjects": 2
+  },
+  {
+    "name": "Akshara Singh",
+    "email": "aksharasingh219@gmail.com",
+    "age": 36,
+    "phone": "8859367780",
+    "designation": "Data Analyst",
+    "gender": "FEMALE",
+    "location": "Jaipur",
+    "experience": [{ "role": "Machine Learning Engineer", "years": 4 }],
+    "skills": [
+      { "name": "SQL", "level": 4 },
+      { "name": "HTML/CSS", "level": 3 },
+      { "name": "R", "level": 3 },
+      { "name": "Data Visualization", "level": 4 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Neha Reddy",
+    "email": "nehareddy224@gmail.com",
+    "age": 44,
+    "phone": "9110147165",
+    "designation": "Data Analyst",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Machine Learning Engineer", "years": 2 },
+      { "role": "Data Analyst", "years": 1 }
+    ],
+    "skills": [
+      { "name": "Go", "level": 2 },
+      { "name": "TypeScript", "level": 2 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Ishita Malhotra",
+    "email": "ishitamalhotra189@gmail.com",
+    "age": 36,
+    "phone": "7927959398",
+    "designation": "Data Analyst",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Data Analyst", "years": 2 },
+      { "role": "Data Scientist", "years": 4 }
+    ],
+    "skills": [
+      { "name": "JAVA", "level": 2 },
+      { "name": "Go", "level": 2 },
+      { "name": "HTML/CSS", "level": 4 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Trisha Mishra",
+    "email": "trishamishra13@gmail.com",
+    "age": 24,
+    "phone": "9405327430",
+    "designation": "QA engineer",
+    "gender": "FEMALE",
+    "location": "Thiruvananthapuram",
+    "experience": [{ "role": "QA engineer", "years": 3 }],
+    "skills": [
+      { "name": "C#", "level": 2 },
+      { "name": "JavaScript", "level": 4 },
+      { "name": "JAVA", "level": 5 },
+      { "name": "C", "level": 5 },
+      { "name": "Python", "level": 5 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Rohan Kumar",
+    "email": "rohankumar159@gmail.com",
+    "age": 29,
+    "phone": "8948323653",
+    "designation": "Machine Learning Engineer",
+    "gender": "MALE",
+    "location": "New Delhi",
+    "experience": [{ "role": "Data Analyst", "years": 4 }],
+    "skills": [
+      { "name": "Shell scripting (Bash)", "level": 4 },
+      { "name": "Statistics", "level": 5 },
+      { "name": "Data Visualization", "level": 5 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "PARTTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Ananya Singh",
+    "email": "ananyasingh66@gmail.com",
+    "age": 32,
+    "phone": "8440293337",
+    "designation": "Data Scientist",
+    "gender": "FEMALE",
+    "location": "Jaipur",
+    "experience": [
+      { "role": "Data Scientist", "years": 2 },
+      { "role": "QA engineer", "years": 2 }
+    ],
+    "skills": [
+      { "name": "JAVA", "level": 2 },
+      { "name": "C#", "level": 2 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "CONTRACT",
+    "currentProjects": 1
+  },
+  {
+    "name": "Saanvi Kapoor",
+    "email": "saanvikapoor67@gmail.com",
+    "age": 38,
+    "phone": "7941126862",
+    "designation": "Software Developer",
+    "gender": "FEMALE",
+    "location": "Lucknow",
+    "experience": [{ "role": "Data Scientist", "years": 4 }],
+    "skills": [
+      { "name": "HTML/CSS", "level": 3 },
+      { "name": "c++", "level": 5 },
+      { "name": "SQL", "level": 4 },
+      { "name": "Python", "level": 4 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "PARTTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Anaya Kapoor",
+    "email": "anayakapoor286@gmail.com",
+    "age": 39,
+    "phone": "7949300540",
+    "designation": "QA engineer",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "Machine Learning Engineer", "years": 2 }],
+    "skills": [
+      { "name": "SQL", "level": 2 },
+      { "name": "Python", "level": 5 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Ananya Joshi",
+    "email": "ananyajoshi229@gmail.com",
+    "age": 26,
+    "phone": "9000544688",
+    "designation": "Machine Learning Engineer",
+    "gender": "FEMALE",
+    "location": "Thiruvananthapuram",
+    "experience": [
+      { "role": "Data Analyst", "years": 4 },
+      { "role": "Software Developer", "years": 1 }
+    ],
+    "skills": [
+      { "name": "C#", "level": 4 },
+      { "name": "TypeScript", "level": 2 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "INTERN",
+    "currentProjects": 2
+  },
+  {
+    "name": "Anika Sharma",
+    "email": "anikasharma423@gmail.com",
+    "age": 28,
+    "phone": "8973252090",
+    "designation": "Machine Learning Engineer",
+    "gender": "FEMALE",
+    "location": "Ahmedabad",
+    "experience": [
+      { "role": "Data Analyst", "years": 1 },
+      { "role": "Data Scientist", "years": 1 }
+    ],
+    "skills": [
+      { "name": "Go", "level": 4 },
+      { "name": "TypeScript", "level": 3 },
+      { "name": "Java", "level": 4 },
+      { "name": "c++", "level": 3 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "CONTRACT",
+    "currentProjects": 2
+  },
+  {
+    "name": "Arjun Sharma",
+    "email": "arjunsharma132@gmail.com",
+    "age": 23,
+    "phone": "9011970321",
+    "designation": "Data Analyst",
+    "gender": "MALE",
+    "location": "Mumbai",
+    "experience": [
+      { "role": "Data Analyst", "years": 2 },
+      { "role": "QA engineer", "years": 3 }
+    ],
+    "skills": [
+      { "name": "Kotlin", "level": 4 },
+      { "name": "C#", "level": 2 },
+      { "name": "Shell scripting (Bash)", "level": 2 },
+      { "name": "Java", "level": 3 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Vihaan Pillai",
+    "email": "vihaanpillai174@gmail.com",
+    "age": 38,
+    "phone": "9016694632",
+    "designation": "Data Scientist",
+    "gender": "MALE",
+    "location": "New Delhi",
+    "experience": [
+      { "role": "Data Scientist", "years": 1 },
+      { "role": "Software Developer", "years": 2 }
+    ],
+    "skills": [
+      { "name": "C#", "level": 2 },
+      { "name": "Shell scripting (Bash)", "level": 2 },
+      { "name": "SQL", "level": 3 },
+      { "name": "Assembly language", "level": 4 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Virat Agarwal",
+    "email": "viratagarwal234@gmail.com",
+    "age": 26,
+    "phone": "9338361179",
+    "designation": "Data Scientist",
+    "gender": "MALE",
+    "location": "Hyderabad",
+    "experience": [
+      { "role": "Data Analyst", "years": 2 },
+      { "role": "Data Scientist", "years": 3 }
+    ],
+    "skills": [
+      { "name": "C#", "level": 5 },
+      { "name": "Assembly language", "level": 3 },
+      { "name": "Data Visualization", "level": 4 },
+      { "name": "PHP", "level": 3 },
+      { "name": "Machine Learning", "level": 3 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Myra Singh",
+    "email": "myrasingh173@gmail.com",
+    "age": 32,
+    "phone": "8142309462",
+    "designation": "Data Analyst",
+    "gender": "FEMALE",
+    "location": "Jaipur",
+    "experience": [
+      { "role": "Machine Learning Engineer", "years": 1 },
+      { "role": "QA engineer", "years": 1 }
+    ],
+    "skills": [
+      { "name": "PHP", "level": 2 },
+      { "name": "SQL", "level": 4 },
+      { "name": "Go", "level": 3 },
+      { "name": "R", "level": 4 },
+      { "name": "C#", "level": 4 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Anvi Verma",
+    "email": "anviverma312@gmail.com",
+    "age": 45,
+    "phone": "9303791524",
+    "designation": "QA engineer",
+    "gender": "FEMALE",
+    "location": "Kochi",
+    "experience": [{ "role": "QA engineer", "years": 3 }],
+    "skills": [
+      { "name": "c++", "level": 3 },
+      { "name": "JavaScript", "level": 4 },
+      { "name": "HTML/CSS", "level": 2 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Rehan Kumar",
+    "email": "rehankumar265@gmail.com",
+    "age": 41,
+    "phone": "9053302490",
+    "designation": "QA engineer",
+    "gender": "MALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Data Analyst", "years": 1 },
+      { "role": "Data Scientist", "years": 4 }
+    ],
+    "skills": [
+      { "name": "Python", "level": 5 },
+      { "name": "JAVA", "level": 2 },
+      { "name": "R", "level": 2 },
+      { "name": "PHP", "level": 2 },
+      { "name": "C", "level": 3 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "INTERN",
+    "currentProjects": 1
+  },
+  {
+    "name": "Ishani Malhotra",
+    "email": "ishanimalhotra326@gmail.com",
+    "age": 23,
+    "phone": "8192230256",
+    "designation": "Machine Learning Engineer",
+    "gender": "FEMALE",
+    "location": "Pune",
+    "experience": [
+      { "role": "QA engineer", "years": 1 },
+      { "role": "Machine Learning Engineer", "years": 1 }
+    ],
+    "skills": [
+      { "name": "SQL", "level": 2 },
+      { "name": "Shell scripting (Bash)", "level": 4 },
+      { "name": "Go", "level": 5 },
+      { "name": "Python", "level": 4 },
+      { "name": "PHP", "level": 4 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "PARTTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Siya Khanna",
+    "email": "siyakhanna283@gmail.com",
+    "age": 28,
+    "phone": "8728392259",
+    "designation": "Data Scientist",
+    "gender": "FEMALE",
+    "location": "Chandigarh",
+    "experience": [{ "role": "Data Analyst", "years": 1 }],
+    "skills": [
+      { "name": "PHP", "level": 4 },
+      { "name": "SQL", "level": 3 },
+      { "name": "Go", "level": 5 },
+      { "name": "R", "level": 3 },
+      { "name": "C#", "level": 4 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Anika Khurana",
+    "email": "anikakhurana423@gmail.com",
+    "age": 42,
+    "phone": "8419844851",
+    "designation": "Data Analyst",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Data Scientist", "years": 4 },
+      { "role": "Software Developer", "years": 1 }
+    ],
+    "skills": [
+      { "name": "SQL", "level": 3 },
+      { "name": "HTML/CSS", "level": 3 },
+      { "name": "Data Visualization", "level": 5 },
+      { "name": "Shell scripting (Bash)", "level": 2 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Riya Gupta",
+    "email": "riyagupta393@gmail.com",
+    "age": 24,
+    "phone": "8508744743",
+    "designation": "Machine Learning Engineer",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "Data Analyst", "years": 3 }],
+    "skills": [
+      { "name": "C#", "level": 5 },
+      { "name": "HTML/CSS", "level": 2 },
+      { "name": "Java", "level": 2 },
+      { "name": "SQL", "level": 4 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Saanvi Kapoor",
+    "email": "saanvikapoor268@gmail.com",
+    "age": 27,
+    "phone": "8329667443",
+    "designation": "Data Analyst",
+    "gender": "FEMALE",
+    "location": "Indore",
+    "experience": [{ "role": "Data Analyst", "years": 1 }],
+    "skills": [
+      { "name": "Kotlin", "level": 4 },
+      { "name": "C#", "level": 5 },
+      { "name": "Shell scripting (Bash)", "level": 5 },
+      { "name": "Java", "level": 2 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Yuvraj Mehra",
+    "email": "yuvrajmehra249@gmail.com",
+    "age": 30,
+    "phone": "9134108195",
+    "designation": "Software Developer",
+    "gender": "MALE",
+    "location": "Chandigarh",
+    "experience": [{ "role": "Software Developer", "years": 3 }],
+    "skills": [
+      { "name": "c++", "level": 3 },
+      { "name": "Statistics", "level": 3 },
+      { "name": "Shell scripting (Bash)", "level": 4 },
+      { "name": "Machine Learning", "level": 4 },
+      { "name": "Python", "level": 3 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Advait Joshi",
+    "email": "advaitjoshi440@gmail.com",
+    "age": 43,
+    "phone": "8078940789",
+    "designation": "Machine Learning Engineer",
+    "gender": "MALE",
+    "location": "Noida",
+    "experience": [{ "role": "Data Scientist", "years": 4 }],
+    "skills": [
+      { "name": "TypeScript", "level": 5 },
+      { "name": "PHP", "level": 5 },
+      { "name": "Python", "level": 4 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Arjun Malhotra",
+    "email": "arjunmalhotra373@gmail.com",
+    "age": 27,
+    "phone": "8095461402",
+    "designation": "Data Analyst",
+    "gender": "MALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "QA engineer", "years": 3 }],
+    "skills": [
+      { "name": "PHP", "level": 5 },
+      { "name": "SQL", "level": 2 },
+      { "name": "Go", "level": 3 },
+      { "name": "R", "level": 2 },
+      { "name": "C#", "level": 4 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Siya Singh",
+    "email": "siyasingh218@gmail.com",
+    "age": 26,
+    "phone": "8269336872",
+    "designation": "Machine Learning Engineer",
+    "gender": "FEMALE",
+    "location": "Noida",
+    "experience": [{ "role": "Data Analyst", "years": 4 }],
+    "skills": [
+      { "name": "PHP", "level": 2 },
+      { "name": "c++", "level": 5 },
+      { "name": "SQL", "level": 4 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Riya Gupta",
+    "email": "riyagupta99@gmail.com",
+    "age": 35,
+    "phone": "9074776218",
+    "designation": "Software Developer",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "Data Scientist", "years": 4 }],
+    "skills": [
+      { "name": "HTML/CSS", "level": 3 },
+      { "name": "c++", "level": 4 },
+      { "name": "SQL", "level": 3 },
+      { "name": "Python", "level": 3 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Anaya Sharma",
+    "email": "anayasharma364@gmail.com",
+    "age": 34,
+    "phone": "8534966849",
+    "designation": "Data Scientist",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "Data Analyst", "years": 3 }],
+    "skills": [
+      { "name": "JavaScript", "level": 2 },
+      { "name": "Assembly language", "level": 4 },
+      { "name": "Machine Learning", "level": 5 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Aarav Singh",
+    "email": "aaravsingh36@gmail.com",
+    "age": 45,
+    "phone": "9321264129",
+    "designation": "Software Developer",
+    "gender": "MALE",
+    "location": "Ahmedabad",
+    "experience": [
+      { "role": "Data Analyst", "years": 3 },
+      { "role": "Data Scientist", "years": 2 }
+    ],
+    "skills": [
+      { "name": "SQL", "level": 4 },
+      { "name": "C", "level": 3 },
+      { "name": "Kotlin", "level": 5 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "INTERN",
+    "currentProjects": 0
+  },
+  {
+    "name": "Neha Das",
+    "email": "nehadas225@gmail.com",
+    "age": 40,
+    "phone": "8083544630",
+    "designation": "Data Scientist",
+    "gender": "FEMALE",
+    "location": "New Delhi",
+    "experience": [
+      { "role": "Data Analyst", "years": 2 },
+      { "role": "Data Scientist", "years": 1 }
+    ],
+    "skills": [
+      { "name": "C#", "level": 2 },
+      { "name": "JavaScript", "level": 2 },
+      { "name": "JAVA", "level": 4 },
+      { "name": "C", "level": 5 },
+      { "name": "Python", "level": 4 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Riya Kumar",
+    "email": "riyakumar148@gmail.com",
+    "age": 22,
+    "phone": "9510739985",
+    "designation": "Data Analyst",
+    "gender": "FEMALE",
+    "location": "Chennai",
+    "experience": [
+      { "role": "Software Developer", "years": 1 },
+      { "role": "Data Scientist", "years": 1 }
+    ],
+    "skills": [
+      { "name": "PHP", "level": 3 },
+      { "name": "SQL", "level": 4 },
+      { "name": "Go", "level": 5 },
+      { "name": "R", "level": 2 },
+      { "name": "C#", "level": 5 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Anika Chauhan",
+    "email": "anikachauhan444@gmail.com",
+    "age": 32,
+    "phone": "8775983629",
+    "designation": "Data Analyst",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Data Analyst", "years": 4 },
+      { "role": "Data Scientist", "years": 1 }
+    ],
+    "skills": [
+      { "name": "SQL", "level": 3 },
+      { "name": "Shell scripting (Bash)", "level": 2 },
+      { "name": "Go", "level": 3 },
+      { "name": "Python", "level": 5 },
+      { "name": "PHP", "level": 4 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Aditya Patel",
+    "email": "adityapatel289@gmail.com",
+    "age": 32,
+    "phone": "9579744834",
+    "designation": "Software Developer",
+    "gender": "MALE",
+    "location": "Ahmedabad",
+    "experience": [{ "role": "Data Analyst", "years": 1 }],
+    "skills": [
+      { "name": "TypeScript", "level": 4 },
+      { "name": "Python", "level": 2 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Anvi Shah",
+    "email": "anvishah182@gmail.com",
+    "age": 41,
+    "phone": "9124475301",
+    "designation": "Machine Learning Engineer",
+    "gender": "FEMALE",
+    "location": "Noida",
+    "experience": [{ "role": "Software Developer", "years": 1 }],
+    "skills": [
+      { "name": "SQL", "level": 5 },
+      { "name": "TypeScript", "level": 4 },
+      { "name": "PHP", "level": 3 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Anika Khurana",
+    "email": "anikakhurana102@gmail.com",
+    "age": 43,
+    "phone": "8046824701",
+    "designation": "Machine Learning Engineer",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "Machine Learning Engineer", "years": 4 }],
+    "skills": [
+      { "name": "JAVA", "level": 2 },
+      { "name": "Data Visualization", "level": 4 },
+      { "name": "Machine Learning", "level": 3 },
+      { "name": "c++", "level": 4 },
+      { "name": "SQL", "level": 2 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Riya Shah",
+    "email": "riyashah170@gmail.com",
+    "age": 38,
+    "phone": "8833139760",
+    "designation": "QA engineer",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Software Developer", "years": 4 },
+      { "role": "Data Scientist", "years": 1 }
+    ],
+    "skills": [
+      { "name": "SQL", "level": 4 },
+      { "name": "HTML/CSS", "level": 3 },
+      { "name": "Data Visualization", "level": 4 },
+      { "name": "Shell scripting (Bash)", "level": 5 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Ishani Mehta",
+    "email": "ishanimehta137@gmail.com",
+    "age": 35,
+    "phone": "8221542689",
+    "designation": "Software Developer",
+    "gender": "FEMALE",
+    "location": "Chandigarh",
+    "experience": [
+      { "role": "QA engineer", "years": 2 },
+      { "role": "Machine Learning Engineer", "years": 4 }
+    ],
+    "skills": [
+      { "name": "Python", "level": 2 },
+      { "name": "JAVA", "level": 5 },
+      { "name": "R", "level": 5 },
+      { "name": "PHP", "level": 2 },
+      { "name": "C", "level": 5 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Aarav Sinha",
+    "email": "aaravsinha450@gmail.com",
+    "age": 40,
+    "phone": "8180205441",
+    "designation": "Machine Learning Engineer",
+    "gender": "MALE",
+    "location": "Lucknow",
+    "experience": [
+      { "role": "QA engineer", "years": 1 },
+      { "role": "Software Developer", "years": 2 }
+    ],
+    "skills": [
+      { "name": "PHP", "level": 4 },
+      { "name": "Shell scripting (Bash)", "level": 2 },
+      { "name": "Data Visualization", "level": 3 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "PARTTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Kavya Reddy",
+    "email": "kavyareddy209@gmail.com",
+    "age": 24,
+    "phone": "8191234406",
+    "designation": "QA engineer",
+    "gender": "FEMALE",
+    "location": "Pune",
+    "experience": [{ "role": "Data Analyst", "years": 4 }],
+    "skills": [
+      { "name": "Python", "level": 3 },
+      { "name": "C", "level": 3 },
+      { "name": "Shell scripting (Bash)", "level": 2 },
+      { "name": "Go", "level": 2 },
+      { "name": "SQL", "level": 4 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "CONTRACT",
+    "currentProjects": 0
+  },
+  {
+    "name": "Zoya Iyer",
+    "email": "zoyaiyer305@gmail.com",
+    "age": 39,
+    "phone": "9006748976",
+    "designation": "QA engineer",
+    "gender": "FEMALE",
+    "location": "Chandigarh",
+    "experience": [{ "role": "QA engineer", "years": 3 }],
+    "skills": [
+      { "name": "JAVA", "level": 3 },
+      { "name": "Go", "level": 3 },
+      { "name": "HTML/CSS", "level": 3 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "CONTRACT",
+    "currentProjects": 2
+  },
+  {
+    "name": "Meera Choudhury",
+    "email": "meerachoudhury190@gmail.com",
+    "age": 21,
+    "phone": "9268330577",
+    "designation": "Data Analyst",
+    "gender": "FEMALE",
+    "location": "Lucknow",
+    "experience": [
+      { "role": "Data Analyst", "years": 3 },
+      { "role": "Software Developer", "years": 1 }
+    ],
+    "skills": [
+      { "name": "Python", "level": 2 },
+      { "name": "C", "level": 3 },
+      { "name": "Shell scripting (Bash)", "level": 5 },
+      { "name": "Go", "level": 4 },
+      { "name": "SQL", "level": 3 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "INTERN",
+    "currentProjects": 0
+  },
+  {
+    "name": "Anaya Mehra",
+    "email": "anayamehra443@gmail.com",
+    "age": 34,
+    "phone": "8626964428",
+    "designation": "Data Scientist",
+    "gender": "FEMALE",
+    "location": "Thiruvananthapuram",
+    "experience": [{ "role": "Software Developer", "years": 3 }],
+    "skills": [
+      { "name": "HTML/CSS", "level": 5 },
+      { "name": "c++", "level": 3 },
+      { "name": "SQL", "level": 4 },
+      { "name": "Python", "level": 5 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "INTERN",
+    "currentProjects": 2
+  },
+  {
+    "name": "Siya Singh",
+    "email": "siyasingh99@gmail.com",
+    "age": 38,
+    "phone": "9394278750",
+    "designation": "Data Scientist",
+    "gender": "FEMALE",
+    "location": "Noida",
+    "experience": [
+      { "role": "QA engineer", "years": 4 },
+      { "role": "Data Scientist", "years": 3 }
+    ],
+    "skills": [
+      { "name": "Machine Learning", "level": 2 },
+      { "name": "Assembly language", "level": 5 },
+      { "name": "PHP", "level": 3 },
+      { "name": "C", "level": 4 },
+      { "name": "C#", "level": 3 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Vivaan Sharma",
+    "email": "vivaansharma105@gmail.com",
+    "age": 38,
+    "phone": "9167235049",
+    "designation": "Software Developer",
+    "gender": "MALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "Data Analyst", "years": 1 }],
+    "skills": [
+      { "name": "C#", "level": 2 },
+      { "name": "Python", "level": 4 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Vivaan Kumar",
+    "email": "vivaankumar52@gmail.com",
+    "age": 32,
+    "phone": "8100033139",
+    "designation": "Data Scientist",
+    "gender": "MALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Software Developer", "years": 3 },
+      { "role": "QA engineer", "years": 1 }
+    ],
+    "skills": [
+      { "name": "C", "level": 5 },
+      { "name": "HTML/CSS", "level": 5 },
+      { "name": "TypeScript", "level": 4 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Neha Das",
+    "email": "nehadas260@gmail.com",
+    "age": 26,
+    "phone": "9063518718",
+    "designation": "Data Analyst",
+    "gender": "FEMALE",
+    "location": "Indore",
+    "experience": [
+      { "role": "Data Analyst", "years": 2 },
+      { "role": "Data Scientist", "years": 3 }
+    ],
+    "skills": [
+      { "name": "Shell scripting (Bash)", "level": 4 },
+      { "name": "Statistics", "level": 4 },
+      { "name": "Data Visualization", "level": 3 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "CONTRACT",
+    "currentProjects": 2
+  },
+  {
+    "name": "Saanvi Mehra",
+    "email": "saanvimehra319@gmail.com",
+    "age": 37,
+    "phone": "9117715472",
+    "designation": "Machine Learning Engineer",
+    "gender": "FEMALE",
+    "location": "Chennai",
+    "experience": [{ "role": "Software Developer", "years": 3 }],
+    "skills": [
+      { "name": "c++", "level": 3 },
+      { "name": "Statistics", "level": 5 },
+      { "name": "Shell scripting (Bash)", "level": 2 },
+      { "name": "Machine Learning", "level": 3 },
+      { "name": "Python", "level": 2 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Armaan Singh",
+    "email": "armaansingh447@gmail.com",
+    "age": 21,
+    "phone": "9361686857",
+    "designation": "Machine Learning Engineer",
+    "gender": "MALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Machine Learning Engineer", "years": 4 },
+      { "role": "Data Analyst", "years": 2 }
+    ],
+    "skills": [
+      { "name": "Go", "level": 5 },
+      { "name": "TypeScript", "level": 4 },
+      { "name": "Java", "level": 2 },
+      { "name": "c++", "level": 4 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Rudra Iyer",
+    "email": "rudraiyer122@gmail.com",
+    "age": 40,
+    "phone": "9557923386",
+    "designation": "QA engineer",
+    "gender": "MALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "Data Analyst", "years": 3 }],
+    "skills": [
+      { "name": "c++", "level": 4 },
+      { "name": "JavaScript", "level": 2 },
+      { "name": "HTML/CSS", "level": 3 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Anvi Verma",
+    "email": "anviverma270@gmail.com",
+    "age": 40,
+    "phone": "9264037214",
+    "designation": "QA engineer",
+    "gender": "FEMALE",
+    "location": "Pune",
+    "experience": [
+      { "role": "Data Analyst", "years": 1 },
+      { "role": "Machine Learning Engineer", "years": 4 }
+    ],
+    "skills": [
+      { "name": "Shell scripting (Bash)", "level": 3 },
+      { "name": "C#", "level": 4 },
+      { "name": "Go", "level": 3 },
+      { "name": "SQL", "level": 3 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Vivaan Mehra",
+    "email": "vivaanmehra367@gmail.com",
+    "age": 44,
+    "phone": "8762143666",
+    "designation": "Data Analyst",
+    "gender": "MALE",
+    "location": "Kochi",
+    "experience": [
+      { "role": "Data Analyst", "years": 2 },
+      { "role": "Data Scientist", "years": 3 }
+    ],
+    "skills": [
+      { "name": "Shell scripting (Bash)", "level": 5 },
+      { "name": "Statistics", "level": 5 },
+      { "name": "Data Visualization", "level": 2 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Sanya Verma",
+    "email": "sanyaverma152@gmail.com",
+    "age": 43,
+    "phone": "9454117435",
+    "designation": "Software Developer",
+    "gender": "FEMALE",
+    "location": "Pune",
+    "experience": [{ "role": "QA engineer", "years": 2 }],
+    "skills": [
+      { "name": "SQL", "level": 2 },
+      { "name": "C", "level": 3 },
+      { "name": "Kotlin", "level": 5 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "PARTTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Sanya Verma",
+    "email": "sanyaverma396@gmail.com",
+    "age": 40,
+    "phone": "8613827027",
+    "designation": "Data Scientist",
+    "gender": "FEMALE",
+    "location": "Ahmedabad",
+    "experience": [{ "role": "QA engineer", "years": 4 }],
+    "skills": [
+      { "name": "Data Visualization", "level": 5 },
+      { "name": "PHP", "level": 4 },
+      { "name": "C", "level": 3 },
+      { "name": "Python", "level": 2 },
+      { "name": "HTML/CSS", "level": 3 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "CONTRACT",
+    "currentProjects": 0
+  },
+  {
+    "name": "Avni Kapoor",
+    "email": "avnikapoor226@gmail.com",
+    "age": 28,
+    "phone": "9295189613",
+    "designation": "QA engineer",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "Data Analyst", "years": 1 }],
+    "skills": [
+      { "name": "Statistics", "level": 3 },
+      { "name": "TypeScript", "level": 4 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Aaradhya Joshi",
+    "email": "aaradhyajoshi419@gmail.com",
+    "age": 34,
+    "phone": "9178579052",
+    "designation": "Machine Learning Engineer",
+    "gender": "FEMALE",
+    "location": "Indore",
+    "experience": [{ "role": "Software Developer", "years": 4 }],
+    "skills": [
+      { "name": "C#", "level": 5 },
+      { "name": "HTML/CSS", "level": 2 },
+      { "name": "Java", "level": 2 },
+      { "name": "SQL", "level": 4 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Advaita Reddy",
+    "email": "advaitareddy44@gmail.com",
+    "age": 44,
+    "phone": "8242274991",
+    "designation": "Software Developer",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "Data Analyst", "years": 4 }],
+    "skills": [
+      { "name": "SQL", "level": 5 },
+      { "name": "HTML/CSS", "level": 4 },
+      { "name": "R", "level": 5 },
+      { "name": "Data Visualization", "level": 3 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Ishani Gupta",
+    "email": "ishanigupta447@gmail.com",
+    "age": 39,
+    "phone": "9431907569",
+    "designation": "Machine Learning Engineer",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "QA engineer", "years": 2 },
+      { "role": "Machine Learning Engineer", "years": 1 }
+    ],
+    "skills": [
+      { "name": "Go", "level": 4 },
+      { "name": "TypeScript", "level": 4 },
+      { "name": "Java", "level": 2 },
+      { "name": "c++", "level": 5 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Arnav Das",
+    "email": "arnavdas45@gmail.com",
+    "age": 23,
+    "phone": "8839228965",
+    "designation": "Data Analyst",
+    "gender": "MALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Machine Learning Engineer", "years": 3 },
+      { "role": "Data Analyst", "years": 1 }
+    ],
+    "skills": [
+      { "name": "C#", "level": 4 },
+      { "name": "JAVA", "level": 3 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Aarav Singh",
+    "email": "aaravsingh115@gmail.com",
+    "age": 27,
+    "phone": "8966109945",
+    "designation": "Software Developer",
+    "gender": "MALE",
+    "location": "Bengaluru",
+    "experience": [{ "role": "QA engineer", "years": 3 }],
+    "skills": [
+      { "name": "Python", "level": 3 },
+      { "name": "SQL", "level": 3 },
+      { "name": "R", "level": 4 },
+      { "name": "JAVA", "level": 5 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Arjun Singh",
+    "email": "arjunsingh100@gmail.com",
+    "age": 36,
+    "phone": "7948246041",
+    "designation": "Machine Learning Engineer",
+    "gender": "MALE",
+    "location": "Hyderabad",
+    "experience": [
+      { "role": "Data Scientist", "years": 2 },
+      { "role": "QA engineer", "years": 4 }
+    ],
+    "skills": [
+      { "name": "Go", "level": 3 },
+      { "name": "TypeScript", "level": 2 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Kiara Reddy",
+    "email": "kiarareddy224@gmail.com",
+    "age": 42,
+    "phone": "9187395114",
+    "designation": "Data Scientist",
+    "gender": "FEMALE",
+    "location": "Noida",
+    "experience": [{ "role": "Machine Learning Engineer", "years": 2 }],
+    "skills": [
+      { "name": "SQL", "level": 4 },
+      { "name": "Kotlin", "level": 2 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Anvi Patil",
+    "email": "anvipatil292@gmail.com",
+    "age": 31,
+    "phone": "9371480037",
+    "designation": "Data Scientist",
+    "gender": "FEMALE",
+    "location": "Hyderabad",
+    "experience": [{ "role": "Machine Learning Engineer", "years": 4 }],
+    "skills": [
+      { "name": "C", "level": 5 },
+      { "name": "HTML/CSS", "level": 4 },
+      { "name": "TypeScript", "level": 4 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Rudra Agarwal",
+    "email": "rudraagarwal321@gmail.com",
+    "age": 41,
+    "phone": "8514233788",
+    "designation": "Software Developer",
+    "gender": "MALE",
+    "location": "Indore",
+    "experience": [
+      { "role": "Data Scientist", "years": 4 },
+      { "role": "QA engineer", "years": 3 }
+    ],
+    "skills": [
+      { "name": "Java", "level": 3 },
+      { "name": "Statistics", "level": 5 },
+      { "name": "C#", "level": 2 },
+      { "name": "SQL", "level": 5 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Saanvi Singhania",
+    "email": "saanvisinghania210@gmail.com",
+    "age": 36,
+    "phone": "8384003450",
+    "designation": "QA engineer",
+    "gender": "FEMALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Software Developer", "years": 3 },
+      { "role": "Data Analyst", "years": 1 }
+    ],
+    "skills": [
+      { "name": "Shell scripting (Bash)", "level": 4 },
+      { "name": "Statistics", "level": 2 },
+      { "name": "Data Visualization", "level": 2 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "PARTTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Aarav Bhandari",
+    "email": "aaravbhandari140@gmail.com",
+    "age": 24,
+    "phone": "8932040286",
+    "designation": "Machine Learning Engineer",
+    "gender": "MALE",
+    "location": "Hyderabad",
+    "experience": [{ "role": "Machine Learning Engineer", "years": 3 }],
+    "skills": [
+      { "name": "PHP", "level": 2 },
+      { "name": "SQL", "level": 2 },
+      { "name": "Go", "level": 2 },
+      { "name": "R", "level": 3 },
+      { "name": "C#", "level": 5 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Aryan Patel",
+    "email": "aryanpatel201@gmail.com",
+    "age": 21,
+    "phone": "7985279625",
+    "designation": "Software Developer",
+    "gender": "MALE",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Data Scientist", "years": 2 },
+      { "role": "Machine Learning Engineer", "years": 2 }
+    ],
+    "skills": [
+      { "name": "Python", "level": 3 },
+      { "name": "JAVA", "level": 5 },
+      { "name": "R", "level": 4 },
+      { "name": "PHP", "level": 4 },
+      { "name": "C", "level": 2 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Kiaan Gupta",
+    "email": "kiaangupta70@gmail.com",
+    "age": 36,
+    "phone": "9302415687",
+    "designation": "Data Scientist",
+    "gender": "Unknown",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Data Analyst", "years": 3 },
+      { "role": "Data Scientist", "years": 3 }
+    ],
+    "skills": [
+      { "name": "TypeScript", "level": 2 },
+      { "name": "PHP", "level": 2 },
+      { "name": "Python", "level": 2 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "PARTTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Advik Shukla",
+    "email": "advikshukla337@gmail.com",
+    "age": 29,
+    "phone": "8394926039",
+    "designation": "Data Analyst",
+    "gender": "Unknown",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "QA engineer", "years": 3 },
+      { "role": "Machine Learning Engineer", "years": 2 }
+    ],
+    "skills": [
+      { "name": "C", "level": 2 },
+      { "name": "Machine Learning", "level": 4 },
+      { "name": "SQL", "level": 5 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "CONTRACT",
+    "currentProjects": 3
+  },
+  {
+    "name": "Aarav Deshpande",
+    "email": "aaravdeshpande125@gmail.com",
+    "age": 31,
+    "phone": "8741852314",
+    "designation": "Machine Learning Engineer",
+    "gender": "Unknown",
+    "location": "Chandigarh",
+    "experience": [{ "role": "Software Developer", "years": 2 }],
+    "skills": [
+      { "name": "C", "level": 2 },
+      { "name": "HTML/CSS", "level": 2 },
+      { "name": "TypeScript", "level": 4 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "CONTRACT",
+    "currentProjects": 3
+  },
+  {
+    "name": "Rudra Shah",
+    "email": "rudrashah370@gmail.com",
+    "age": 39,
+    "phone": "9176815682",
+    "designation": "Machine Learning Engineer",
+    "gender": "Unknown",
+    "location": "Jaipur",
+    "experience": [{ "role": "Software Developer", "years": 3 }],
+    "skills": [
+      { "name": "Shell scripting (Bash)", "level": 2 },
+      { "name": "C#", "level": 3 },
+      { "name": "Go", "level": 4 },
+      { "name": "SQL", "level": 2 },
+      { "name": "Communication", "level": 4 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "INTERN",
+    "currentProjects": 1
+  },
+  {
+    "name": "Ishani Gupta",
+    "email": "ishanigupta444@gmail.com",
+    "age": 31,
+    "phone": "9125338626",
+    "designation": "Software Developer",
+    "gender": "Unknown",
+    "location": "Bengaluru",
+    "experience": [{ "role": "Data Analyst", "years": 3 }],
+    "skills": [
+      { "name": "Shell scripting (Bash)", "level": 5 },
+      { "name": "R", "level": 4 },
+      { "name": "Kotlin", "level": 2 },
+      { "name": "Python", "level": 3 },
+      { "name": "PHP", "level": 5 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 5 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Riya Kumar",
+    "email": "riyakumar63@gmail.com",
+    "age": 32,
+    "phone": "8132991325",
+    "designation": "Data Analyst",
+    "gender": "Unknown",
+    "location": "Chandigarh",
+    "experience": [
+      { "role": "Data Analyst", "years": 4 },
+      { "role": "Data Scientist", "years": 3 }
+    ],
+    "skills": [
+      { "name": "Go", "level": 3 },
+      { "name": "R", "level": 5 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "INTERN",
+    "currentProjects": 3
+  },
+  {
+    "name": "Ananya Singh",
+    "email": "ananyasingh41@gmail.com",
+    "age": 28,
+    "phone": "8802532341",
+    "designation": "QA engineer",
+    "gender": "Unknown",
+    "location": "Indore",
+    "experience": [
+      { "role": "Data Analyst", "years": 4 },
+      { "role": "Machine Learning Engineer", "years": 3 }
+    ],
+    "skills": [
+      { "name": "Statistics", "level": 4 },
+      { "name": "TypeScript", "level": 2 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Aarav Singh",
+    "email": "aaravsingh131@gmail.com",
+    "age": 41,
+    "phone": "8703264542",
+    "designation": "Data Analyst",
+    "gender": "Unknown",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Software Developer", "years": 1 },
+      { "role": "Machine Learning Engineer", "years": 3 }
+    ],
+    "skills": [
+      { "name": "SQL", "level": 2 },
+      { "name": "Shell scripting (Bash)", "level": 2 },
+      { "name": "Go", "level": 4 },
+      { "name": "Python", "level": 2 },
+      { "name": "PHP", "level": 2 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "PARTTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Riya Mehra",
+    "email": "riyamehra100@gmail.com",
+    "age": 34,
+    "phone": "8742424554",
+    "designation": "QA engineer",
+    "gender": "Unknown",
+    "location": "Kochi",
+    "experience": [{ "role": "QA engineer", "years": 3 }],
+    "skills": [
+      { "name": "SQL", "level": 3 },
+      { "name": "TypeScript", "level": 3 },
+      { "name": "PHP", "level": 5 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  },
+  {
+    "name": "Akshara Singh",
+    "email": "aksharasingh449@gmail.com",
+    "age": 24,
+    "phone": "8470815864",
+    "designation": "Machine Learning Engineer",
+    "gender": "Unknown",
+    "location": "Jaipur",
+    "experience": [
+      { "role": "QA engineer", "years": 2 },
+      { "role": "Machine Learning Engineer", "years": 2 }
+    ],
+    "skills": [
+      { "name": "Kotlin", "level": 5 },
+      { "name": "C#", "level": 5 },
+      { "name": "Shell scripting (Bash)", "level": 2 },
+      { "name": "Java", "level": 3 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 3 },
+      { "name": "Leadership", "level": 5 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 2
+  },
+  {
+    "name": "Saanvi Kapoor",
+    "email": "saanvikapoor238@gmail.com",
+    "age": 36,
+    "phone": "8888939435",
+    "designation": "Software Developer",
+    "gender": "Unknown",
+    "location": "Bengaluru",
+    "experience": [
+      { "role": "Software Developer", "years": 1 },
+      { "role": "Machine Learning Engineer", "years": 4 }
+    ],
+    "skills": [
+      { "name": "PHP", "level": 3 },
+      { "name": "Assembly language", "level": 4 },
+      { "name": "Communication", "level": 5 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 3 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 0
+  },
+  {
+    "name": "Saanvi Kapoor",
+    "email": "saanvikapoor438@gmail.com",
+    "age": 32,
+    "phone": "8209738711",
+    "designation": "Data Scientist",
+    "gender": "Unknown",
+    "location": "Mumbai",
+    "experience": [
+      { "role": "QA engineer", "years": 4 },
+      { "role": "Machine Learning Engineer", "years": 4 }
+    ],
+    "skills": [
+      { "name": "Python", "level": 2 },
+      { "name": "JAVA", "level": 4 },
+      { "name": "PHP", "level": 4 },
+      { "name": "Communication", "level": 3 },
+      { "name": "Teamwork", "level": 2 },
+      { "name": "Leadership", "level": 4 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 3
+  },
+  {
+    "name": "Anvi Verma",
+    "email": "anviverma382@gmail.com",
+    "age": 32,
+    "phone": "8620554903",
+    "designation": "Machine Learning Engineer",
+    "gender": "Unknown",
+    "location": "Bengaluru",
+    "experience": [{ "role": "Software Developer", "years": 4 }],
+    "skills": [
+      { "name": "Go", "level": 5 },
+      { "name": "TypeScript", "level": 5 },
+      { "name": "Java", "level": 2 },
+      { "name": "c++", "level": 4 },
+      { "name": "Communication", "level": 2 },
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Leadership", "level": 2 }
+    ],
+    "employeeType": "FULLTIME",
+    "currentProjects": 1
+  }
+]

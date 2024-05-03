@@ -55,23 +55,32 @@ model VerificationToken {
 }
 
 model Employee {
-  id             String       @id @default(auto()) @map("_id") @db.ObjectId
-  name           String
-  age            Int
-  phone          String
-  email          String       @unique
-  designation    String
-  gender         Gender
-  location       String
-  experience     Experience[]
-  skills         Skill[]
-  createdBy      User?        @relation(fields: [createdByEmail], references: [email], onDelete: Cascade)
-  createdByEmail String
+  id              String       @id @default(auto()) @map("_id") @db.ObjectId
+  name            String
+  age             Int
+  phone           String
+  email           String       @unique
+  designation     String
+  gender          Gender
+  employeeType    EMPLOYEETYPE
+  currentProjects Int
+  location        String
+  experience      Experience[]
+  skills          Skill[]
+  createdBy       User?        @relation(fields: [createdByEmail], references: [email], onDelete: Cascade)
+  createdByEmail  String
 }
 
 enum Gender {
   MALE
   FEMALE
+}
+
+enum EMPLOYEETYPE {
+  FULLTIME
+  PARTTIME
+  CONTRACT
+  INTERN
 }
 
 model Experience {
