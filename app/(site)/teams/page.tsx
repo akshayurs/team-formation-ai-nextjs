@@ -464,7 +464,6 @@ export default function Teams() {
                       className="mx-auto self-center p-5"
                       style={{ color: "red" }}
                       onClick={() => {
-                        console.log({ remove: name });
                         remove(name);
                       }}
                     />
@@ -472,7 +471,7 @@ export default function Teams() {
                       <Form.Item
                         {...restField}
                         name={[name, "name"]}
-                        fieldKey={[fieldKey, "name"]}
+                        // fieldKey={[fieldKey, "name"]}
                         label="Team Name"
                         rules={[{ required: true, message: "Missing Name" }]}
                       >
@@ -481,7 +480,7 @@ export default function Teams() {
                       <Form.Item
                         {...restField}
                         name={[name, "size"]}
-                        fieldKey={[fieldKey, "size"]}
+                        // fieldKey={[fieldKey, "size"]}
                         label="Team Size"
                         rules={[{ required: true, message: "Missing size" }]}
                       >
